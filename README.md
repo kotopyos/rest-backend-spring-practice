@@ -1,5 +1,6 @@
-## personal cheetsheet/practice repo
-<br><br>
-Local web-service - <b>Spring</b><br>
-API auto tests - <b>RestAssured</b><br>
-API doc - <b>Swagger</b>
+# Personal cheetsheet/practice repo
+<ul><h4>Used techs:</h4>
+  <li>Web-service - <b>Spring</b></li>
+  <li>API auto tests - <b>RestAssured</b></li>
+  <li>API doc - <b>Swagger</b></li>
+</ul>
